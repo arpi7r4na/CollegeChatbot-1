@@ -1,7 +1,10 @@
-# 🎓 College Voice Chatbot
+# College ChatBot - Team StackSquad(SIH 2025 Project)
+
+This project is created by **Arpit Rana**, **Harsh Dixit**, **Aryan Poddar**, **Vipul Soni**, **Samjhana Yadav**, and **Shiristi Chaturvedi**.
 
 An **AI-powered multilingual college chatbot** built with **Streamlit** and **Google Gemini**.  
-It helps students access FAQs, timetables, and personal academic info instantly through **voice & text input**.
+It helps students access **FAQs**, **timetables**, and **personal academic information** instantly through **voice** and **text** input.
+
 
 ---
 
